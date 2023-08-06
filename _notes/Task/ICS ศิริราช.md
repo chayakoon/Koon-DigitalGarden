@@ -5,7 +5,7 @@ Main_Issue:
 Trip: False
 Date: 2023-08-04
 Status:  in progress
-Tags: 
+Tags: area/BKK/ICSศิริราช
 ---
 
 >[!Task Track]
@@ -17,20 +17,25 @@ Tags:
 
 ## Issue
 - ใช้  SiM ทำ IP-Phone โดย พื้นที่  NT ขาย
-- เสียงขาดหาย, Delay
+- ลูกค้าแจ้งว่า เสียงขาดหาย, Delay 
 - 
 
 
 ## Solve & Analyze
 
+>[!VOIP Quality Test]
+>[How to Measure VoIP Quality & MOS Score (Mean Opinion Score)](https://obkio.com/blog/measuring-voip-quality-with-mos-score-mean-opinion-score/)
+>
   
 |        | RSRP | RSRQ | SINR | ping |
 | ------ | ---- | ---- | ---- | ---- |
-| 4G2300 | good | good | good | 30ms |
-| 4G2100 | good | good | good | 30ms |
+| 4G2300 | good | good | good | Fail |
+| 4G2100 | good | good | good | Fail |
 | 3G2100 |      |      |      |      | 
 
-
+- Ping จาก AZQ -> IP Phone  = Fail
+- Ping จาก AZQ -> NBTC Server = 30 ms (Avg)
+- ทางพื้นที่ ping จากระบบ (SoftSwitch) มี Jitter สูง และ Latency สูง
 
 
 ### LogFile
