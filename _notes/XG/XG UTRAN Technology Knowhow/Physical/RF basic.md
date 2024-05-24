@@ -1,0 +1,4 @@
+- [RF Basics for Telecommunication](https://www.youtube.com/watch?v=YUFcw_J1wNA)
+- [RF and Antenna Basics in 802 11](https://www.youtube.com/watch?v=tyr_u8Zfw2U)
+- [Radio Waves](https://www.youtube.com/watch?v=sRX2EY5Ubto)
+- 

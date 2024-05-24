@@ -1,0 +1,11 @@
+- [CSFB - Theory + Log Analysis](https://www.youtube.com/watch?v=f25Q_jkKGzo)
+	- [[3GPP Specification 23.272.docx]] - CSFB & SMS (หน้า 36 - WCDMA turn back to LTE-EUTRAN)
+	- 3GPP Specification 29.118 SGs Interface (MSC vs MME)
+	- น.15.41 what happened when voice call is over 
+
+- [CSFB from LTE to UMTS network while UE was in idle mode and receive Paging for **MT CALL**](https://www.youtube.com/watch?v=Qs_MRsZcjPM)
+	- นาที.9 Aftern call is disconnected in UMTS, UE reads SIB19/si2qua in UTRAN/GERAN which has reselection parameters for EUTRAN and reselects to LTE with TAU procedure.  
+	- [[CSFB MT Call-2.jpg]]
+- [[lte-to-3g-circuit-switched-fall-back.pdf]]
+- [[MT_CSFB Idle_Mode.jpg]]     [[MT_CSFB Connected_Mode.jpg]]
+- 

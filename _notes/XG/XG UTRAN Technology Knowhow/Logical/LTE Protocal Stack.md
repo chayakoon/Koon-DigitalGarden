@@ -1,0 +1,14 @@
+- [LTE Protocol Stack](https://www.youtube.com/watch?v=PpK5MP78zL8),     [4G LTE - Protocol Stack Architecture and Layers](https://www.youtube.com/watch?v=npsI6eenugs)
+- ต้องดูละเอียดอีกที เมื่อมีเวลา น่าจะดีมาก
+	- NAS ( Non Access Stratum)  
+		- E**M**M Procedure (EPS **Mobility** Management)
+		- E**S**M Procedure (EPS **Session** Management)
+		- [ECM vs EMM in LTE | Functions of ECM and EMM in LTE](https://www.rfwireless-world.com/Terminology/LTE-ECM-and-EMM.html)
+		- 
+	- RRC
+		- [# LTE UE attach/LTE RRC Connection Setup - Log analysis](https://www.youtube.com/watch?v=R_YBYanBW6I)
+		- 
+	- ![[NAS&RRC.jpg]]
+	- [[UE_MME_HSS Signalling to request service 1.png]]
+	- [[UE_MME_HSS Signalling to request service 2.png]]
+	- 

@@ -1,0 +1,6 @@
+- [**4G/LTE - RACH**](https://www.sharetechnote.com/html/RACH_LTE.html)
+	- **What is the functionality of RACH**
+		- Achieve UP link synchronization between UE and eNB
+		- Obtain the resource for Message 3 (e.g, RRC Connection Request)
+	- [#What are the reasons for RACH failure in LTE?](https://teletopix.org/what-are-the-reasons-for-rach-failure-in-lte/)
+	- 
